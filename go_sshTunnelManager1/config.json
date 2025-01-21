@@ -1,0 +1,19 @@
+{
+    "ssh": {
+        "host": "127.0.0.1",
+        "port": 22,
+        "user": "peter",
+        "password": "peter",
+        "keyboard_prompt": "Password:",
+        "keyboard_resp": "peter"
+    },
+    "proxy": {
+        "listen_ip": "127.0.0.1",
+        "listen_port": 8080
+    },
+    "debug": true,
+    "limits": {
+        "max_concurrent_connections": 2000,
+        "max_total_connections": 20000
+    }
+}

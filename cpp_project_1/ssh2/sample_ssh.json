@@ -1,0 +1,72 @@
+[
+  {
+    "name": "tunnel_151.80.235.153_1080",
+    "host": "151.80.235.153",
+    "port": 22,
+    "username": "kevin",
+    "password": "kevin",
+    "local_port": 1080,
+    "group": "Default",
+    "comment": "",
+    "ssh_options": [],
+    "serial_number": 1,
+    "max_reconnects": 15,
+    "auto_reconnects": 0
+  },
+  {
+    "name": "tunnel_165.16.44.5_1081",
+    "host": "165.16.44.5",
+    "port": 2222,
+    "username": "admin",
+    "password": "admin",
+    "local_port": 1081,
+    "group": "Default",
+    "comment": "test",
+    "ssh_options": [],
+    "serial_number": 2,
+    "max_reconnects": 15,
+    "auto_reconnects": 0
+  },
+  {
+    "name": "tunnel_155.12.63.125_1082",
+    "host": "155.12.63.125",
+    "port": 5322,
+    "username": "config",
+    "password": "config",
+    "local_port": 1082,
+    "group": "Default",
+    "comment": "",
+    "ssh_options": [],
+    "serial_number": 3,
+    "max_reconnects": 15,
+    "auto_reconnects": 0
+  },
+  {
+    "name": "tunnel_164.70.187.28_1083",
+    "host": "164.70.187.28",
+    "port": 443,
+    "username": "git",
+    "password": "git",
+    "local_port": 1083,
+    "group": "Default",
+    "comment": "",
+    "ssh_options": [],
+    "serial_number": 4,
+    "max_reconnects": 15,
+    "auto_reconnects": 0
+  },
+  {
+    "name": "tunnel_160.242.52.216_1084",
+    "host": "160.242.52.216",
+    "port": 22,
+    "username": "francis",
+    "password": "francis123",
+    "local_port": 1084,
+    "group": "Default",
+    "comment": "",
+    "ssh_options": [],
+    "serial_number": 5,
+    "max_reconnects": 15,
+    "auto_reconnects": 0
+  }
+]

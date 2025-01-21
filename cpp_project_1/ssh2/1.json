@@ -1,0 +1,30 @@
+[
+  {
+    "name": "tunnel_160.242.52.216_1084",
+    "host": "160.242.52.216",
+    "port": 22,
+    "username": "francis",
+    "password": "francis123",
+    "local_port": 1084,
+    "group": "Default",
+    "comment": "",
+    "ssh_options": [],
+    "serial_number": 5,
+    "max_reconnects": 15,
+    "auto_reconnects": 0
+  },
+  {
+    "name": "tunnel_184_178_172_24_4006",
+    "host": "184.178.172.24",
+    "port": 22,
+    "username": "admin",
+    "password": "a",
+    "local_port": 4006,
+    "group": "Default",
+    "comment": "",
+    "ssh_options": [],
+    "serial_number": 5,
+    "max_reconnects": 15,
+    "auto_reconnects": 0
+  }
+]

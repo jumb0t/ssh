@@ -1,0 +1,16 @@
+[
+  {
+    "name": "tunnel_127.0.0.1_1080",
+    "host": "127.0.0.1",
+    "port": 22,
+    "username": "kevin",
+    "password": "kevin",
+    "local_port": 1080,
+    "group": "Default",
+    "comment": "",
+    "ssh_options": [],
+    "serial_number": 1,
+    "max_reconnects": 15,
+    "auto_reconnects": 0
+  }
+]
